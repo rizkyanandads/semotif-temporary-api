@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "tgl_order": "8 Agustus 2022",
+        "nama_pengguna": "Pak Wayan Merta",
+        "alamat": "Denpasar",
+        "no_telepon": "081339753727",
+        "nama_montir": "Montir Semotif",
+        "layanan": "Ganti Oli",
+        "harga": 55000,
+        "modal": 52000,
+        "keuntungan": 3000
+    }
+]
